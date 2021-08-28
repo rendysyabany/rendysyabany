@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**rendysyabany/rendysyabany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm [Rendy Syabany](https://Rendys.me) a Full Stack Designer and Founder [Syabany.com](https://syabany.com). I am 25 y.o, a digital nomad fan who loves UX, UI, Front-end development and Serverless.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Design Superoir Expertise
+- UX Research Approach
+- Visual / UI Design
+- Design System
+- Interaction Design
+
+#### Dev Superoir Expertise
+- Front-end Development
+- JAMstack Development
+- Headless CMS
+- Serverless Integration
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rendysyabany.rendysyabany)
