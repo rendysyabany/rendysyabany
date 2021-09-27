@@ -1,7 +1,7 @@
 
 ![me](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/cover.jpg?raw=true)
 
-### I'm [Rendy Syabany](https://Rendys.me) a Full Stack Designer and Founder [Syabany.com](https://syabany.com). I am 25 y.o, a digital nomad fan who loves UX, UI, Front-end development and Serverless.
+### I'm Rendy ([Rendys.me](https://Rendys.me)) a Full Stack Designer and Founder [Syabany.com](https://syabany.com). I am 25 y.o, a digital nomad fan who loves UX, UI, Front-end development and Serverless.
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=rendysyabany.rendysyabany)
 
