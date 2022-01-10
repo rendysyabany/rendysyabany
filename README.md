@@ -4,19 +4,8 @@
 
 ![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/cover1.png?raw=true)
 
-![tech](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/tech.png?raw=true)
+![tech](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/stack.png?raw=true)
 
-### Design Superoir Expertise
-- UX Research Approach
-- Visual / UI Design
-- Design System
-- Design Sprint / Thinking
-- Interaction Design
-
-### Dev Superoir Expertise
-- Front-end Dev (Nextjs)
-- JAMstack Dev
-- Headless CMS Consumer
-- Serverless Consumer
+![tech](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/shots.png?raw=true)
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=rendysyabany.rendysyabany)
