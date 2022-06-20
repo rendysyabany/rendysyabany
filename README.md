@@ -4,11 +4,11 @@
 
 ####
 
-![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/ss-hero-section.png?raw=true)
+<!-- ![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/ss-hero-section.png?raw=true) -->
 
 <!-- ![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/ss-tech-stack.png?raw=true) -->
 
 
-![tech](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/shots.png?raw=true)
+<!-- ![tech](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/shots.png?raw=true) -->
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=rendysyabany.rendysyabany)
