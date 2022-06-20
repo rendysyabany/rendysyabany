@@ -1,4 +1,4 @@
-![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/github-rendy-cover.png?raw=true)
+![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/gh-rendy-cover.png?raw=true)
 
 ####
 
