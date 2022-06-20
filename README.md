@@ -1,6 +1,6 @@
 
 ### 👋 I'm Rendy ([Rendys.me](https://Rendys.me)) a Digital Product Designer who loves Code, Tech and SaaS.
-#### And also as Founder at [Syabany Labs](https://syabany.com). I am 25 y.o, a digital nomad fan who loves to approach with business side architecture & designing digital product.
+#### And also as Founder at [Syabany Labs](https://syabany.com). I am 26 y.o, a digital nomad fan who loves to approach with business side architecture & designing digital product.
 
 ####
 
