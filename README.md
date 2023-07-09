@@ -22,4 +22,4 @@
 
 ####
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=rendysyabany.rendysyabany)
+<a href="https://app.daily.dev/rendysyabany"><img src="https://api.daily.dev/devcards/92353048fde749dd91f6b17721ceabf1.png?r=gdu" width="400" alt="Rendyansyah Syabanys's Dev Card"/></a>
