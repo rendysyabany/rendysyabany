@@ -3,7 +3,7 @@
 ####
 
 ### 👋 I'm Rendy ([Rendy.syabany.me](https://Rendy.syabany.me)) a Digital Product Designer who loves Code, Tech and SaaS.
-#### I am 27 y.o, a digital nomad fan who loves to approach with business side architecture & designing digital product. Currently trying to build [Syabany Labs](https://syabany.com). 
+#### A digital nomad fan who loves to approach with business side architecture & designing digital product. Currently trying to build [Syabany Labs](https://syabany.com). 
 
 ####
 
