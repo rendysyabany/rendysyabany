@@ -2,14 +2,14 @@
 
 ####
 
-### 👋 I'm Rendy ([Rendy.syabany.com](https://Rendy.syabany.com)) a Digital Product Designer who loves Code, Tech and SaaS.
-#### And also as Founder at [Syabany Labs](https://syabany.com). I am 26 y.o, a digital nomad fan who loves to approach with business side architecture & designing digital product.
+### 👋 I'm Rendy ([Rendy.syabany.me](https://Rendy.syabany.me)) a Digital Product Designer who loves Code, Tech and SaaS.
+#### I am 27 y.o, a digital nomad fan who loves to approach with business side architecture & designing digital product. Currently trying to build [Syabany Labs](https://syabany.com). 
 
 ####
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- ⚡ Checkout my site: [Rendys.Syabany.com](https://Rendy.syabany.com).
+- ⚡ Checkout my site: [Rendys.Syabany.me](https://Rendy.syabany.me).
 - ⚡ Checkout Syabany Labs:- [www.Syabany.com](https://Syabany.com).
 
 
