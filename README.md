@@ -1,13 +1,14 @@
-![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/gh-rendy-cover.png?raw=true)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Rendy Here
+=============================================================================================================================
+
+###### A Digital Product Designer who loves Code, Tech and SaaS.
+
+#### I am a digital nomad fan who loves designing & building digital products. I have embraced a dynamic lifestyle that allows me to work remotely.
+
+#### Alongside my nomadic adventures, I find immense joy in building digital products, continuously seeking opportunities to combine my technical expertise and creative flair to craft innovative and user-centric solutions.
 
 ####
 
-### 👋 I'm Rendy ([Rendy.syabany.me](https://Rendy.syabany.me)) a Digital Product Designer who loves Code, Tech and SaaS.
-#### A digital nomad fan who loves to approach with business side architecture & designing digital product. Currently trying to build [Syabany Labs](https://syabany.com). 
-
-####
-
-## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - ⚡ Checkout my site: [Rendys.Syabany.me](https://Rendy.syabany.me).
 - ⚡ Checkout Syabany Labs:- [www.Syabany.com](https://Syabany.com).
