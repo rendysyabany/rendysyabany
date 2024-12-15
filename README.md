@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ####
 
 - 💬 Ask me about anything an everything.
-- ⚡ Checkout my site: [Rendys.Syabany.com](https://Rendy.syabany.com).
+- ⚡ Checkout my site: [Rendy.web.id](https://Rendy.web.id).
 - ⚡ Checkout Syabany Labs:- [www.Syabany.com](https://Syabany.com).
 
 
