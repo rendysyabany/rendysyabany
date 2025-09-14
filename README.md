@@ -10,8 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ####
 
 - 💬 Ask me about anything an everything.
-- ⚡ Checkout my site: [Rendy.web.id](https://Rendy.web.id).
-- ⚡ Checkout Syabany Labs:- [www.Syabany.com](https://Syabany.com).
+- ⚡ Checkout Syabany Digital Labs:- [www.Syabany.com](https://Syabany.com).
 
 
 <!-- ![cover](https://github.com/rendysyabany/rendysyabany.github.io/blob/master/static/img/ss-hero-section.png?raw=true) -->
@@ -23,4 +22,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ####
 
-<a href="https://app.daily.dev/rendysyabany"><img src="https://api.daily.dev/devcards/92353048fde749dd91f6b17721ceabf1.png?r=gdu" width="400" alt="Rendyansyah Syabanys's Dev Card"/></a>
+<a href="https://app.daily.dev/rendysyabany"><img src="https://api.daily.dev/devcards/v2/ONmfbiBr0.png?r=kuy&type=default" width="356" alt="Rendyansyah Syabany's Dev Card"/></a>
